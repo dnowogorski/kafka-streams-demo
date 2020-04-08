@@ -1,2 +1,2 @@
 # kafka-streams-demo
-Demo application Spring Boot + Kafka Streams
+Sample application with Kafka Streams and Redis integrations
